@@ -1,0 +1,12 @@
+# Virtual environt
+venv_polls/
+# settings file
+settings.py
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#database
+db.sqlite3
